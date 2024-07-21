@@ -12,5 +12,6 @@
 /.aswb/
 /.clwb/
 
-/external/
+/external
+.DS_Store
 /compile_commands.json
